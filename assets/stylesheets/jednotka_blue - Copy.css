@@ -8809,18 +8809,18 @@ body.boxed .hero-carousel .flex-direction-nav .flex-next {
   text-align: center; }
 .carousel-blur .big, .carousel-blur .normal {
   color: white;
-  margin-top: 14px;
+  margin-top: 54px;
   font-size: 36px;
   line-height: 45px; }
   @media (min-width: 768px) and (max-width: 991px) {
     .carousel-blur .big, .carousel-blur .normal {
-      margin-top: 14px;
-      font-size: 436x;
+      margin-top: 72px;
+      font-size: 48px;
       line-height: 60px; } }
   @media (min-width: 992px) {
     .carousel-blur .big, .carousel-blur .normal {
-      margin-top: 14px;
-      font-size: 48px;
+      margin-top: 90px;
+      font-size: 60px;
       line-height: 75px; } }
 .carousel-blur .normal {
   font-weight: 300;
