@@ -7691,7 +7691,7 @@ pre {
   .panel.panel-image:hover {
     text-decoration: none; }
   .panel.panel-image .panel-body {
-    padding: 30px; }
+    padding: 10px; }
     .panel.panel-image .panel-body p {
       color: #676f7a;
       line-height: 22px;
@@ -7734,7 +7734,7 @@ pre {
   .panel.panel-image .panel-heading {
     padding: 0;
     border: none;
-    max-height: 125px;
+    max-height: 160px;
     overflow: hidden;
     -moz-border-radius-topleft: 10px;
     -webkit-border-top-left-radius: 10px;
@@ -8697,13 +8697,13 @@ pre {
       opacity: 0; }
 
 .hero-carousel, .hero-carousel .item {
-  height: 488px; }
+  height: 250px; }
   @media (min-width: 768px) and (max-width: 991px) {
     .hero-carousel, .hero-carousel .item {
-      height: 491px; } }
+      height: 250px; } }
   @media (min-width: 992px) {
     .hero-carousel, .hero-carousel .item {
-      height: 528px; } }
+      height: 250px; } }
 
 body.boxed .hero-carousel .flex-direction-nav .flex-prev {
   left: 0; }
