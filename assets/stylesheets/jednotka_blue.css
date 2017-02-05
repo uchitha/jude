@@ -6628,7 +6628,7 @@ body.boxed #scroll-to-top {
             color: white;
             border-bottom-color: white;
             border-bottom-color: rgba(255, 255, 255, 0.3);
-            text-align: center;
+            text-align: left;
             padding: 10px 20px;
             white-space: normal;
             text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3); }
@@ -6701,7 +6701,7 @@ body.boxed #scroll-to-top {
         margin-top: 15px;
         background-color: #01a9e0;
         border: 5px solid;
-        width: 216px;
+        width: 275px;
         right: 50%;
         margin-right: -108px;
         border-color: #858990;
@@ -7119,7 +7119,7 @@ body.boxed #scroll-to-top {
     $FOOTER
 \*------------------------------------*/
 #footer #footer-main {
-  padding: 50px 0;
+  padding: 10px 0;
   background-color: #434955;
   text-align: center; }
   @media (min-width: 768px) {
